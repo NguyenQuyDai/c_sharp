@@ -1,0 +1,7 @@
+E:\Code_C#\Bai_Tren_Lop\Tuan_2\Bai_2.2.1\Bai_2.2.1\bin\Debug\Bai_2.2.1.exe.config
+E:\Code_C#\Bai_Tren_Lop\Tuan_2\Bai_2.2.1\Bai_2.2.1\bin\Debug\Bai_2.2.1.exe
+E:\Code_C#\Bai_Tren_Lop\Tuan_2\Bai_2.2.1\Bai_2.2.1\bin\Debug\Bai_2.2.1.pdb
+E:\Code_C#\Bai_Tren_Lop\Tuan_2\Bai_2.2.1\Bai_2.2.1\obj\Debug\Bai_2.2.1.csproj.AssemblyReference.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_2\Bai_2.2.1\Bai_2.2.1\obj\Debug\Bai_2.2.1.csproj.CoreCompileInputs.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_2\Bai_2.2.1\Bai_2.2.1\obj\Debug\Bai_2.2.1.exe
+E:\Code_C#\Bai_Tren_Lop\Tuan_2\Bai_2.2.1\Bai_2.2.1\obj\Debug\Bai_2.2.1.pdb

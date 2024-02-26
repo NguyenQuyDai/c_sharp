@@ -1,0 +1,7 @@
+E:\Code_C#\Bai_Tren_Lop\Tuan_2\715105034_Nguyen_Quy_Dai_Bai24\715105034_Nguyen_Quy_Dai_Bai24\bin\Debug\715105034_Nguyen_Quy_Dai_Bai24.exe.config
+E:\Code_C#\Bai_Tren_Lop\Tuan_2\715105034_Nguyen_Quy_Dai_Bai24\715105034_Nguyen_Quy_Dai_Bai24\bin\Debug\715105034_Nguyen_Quy_Dai_Bai24.exe
+E:\Code_C#\Bai_Tren_Lop\Tuan_2\715105034_Nguyen_Quy_Dai_Bai24\715105034_Nguyen_Quy_Dai_Bai24\bin\Debug\715105034_Nguyen_Quy_Dai_Bai24.pdb
+E:\Code_C#\Bai_Tren_Lop\Tuan_2\715105034_Nguyen_Quy_Dai_Bai24\715105034_Nguyen_Quy_Dai_Bai24\obj\Debug\715105034_Nguyen_Quy_Dai_Bai24.csproj.AssemblyReference.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_2\715105034_Nguyen_Quy_Dai_Bai24\715105034_Nguyen_Quy_Dai_Bai24\obj\Debug\715105034_Nguyen_Quy_Dai_Bai24.csproj.CoreCompileInputs.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_2\715105034_Nguyen_Quy_Dai_Bai24\715105034_Nguyen_Quy_Dai_Bai24\obj\Debug\715105034_Nguyen_Quy_Dai_Bai24.exe
+E:\Code_C#\Bai_Tren_Lop\Tuan_2\715105034_Nguyen_Quy_Dai_Bai24\715105034_Nguyen_Quy_Dai_Bai24\obj\Debug\715105034_Nguyen_Quy_Dai_Bai24.pdb

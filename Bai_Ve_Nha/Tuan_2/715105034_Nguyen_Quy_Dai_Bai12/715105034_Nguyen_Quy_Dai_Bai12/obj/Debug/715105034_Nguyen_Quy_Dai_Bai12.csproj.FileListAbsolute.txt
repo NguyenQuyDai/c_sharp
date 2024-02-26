@@ -1,0 +1,7 @@
+E:\Code_C#\Bai_Ve_Nha\Tuan_2\715105034_Nguyen_Quy_Dai_Bai12\715105034_Nguyen_Quy_Dai_Bai12\bin\Debug\715105034_Nguyen_Quy_Dai_Bai12.exe.config
+E:\Code_C#\Bai_Ve_Nha\Tuan_2\715105034_Nguyen_Quy_Dai_Bai12\715105034_Nguyen_Quy_Dai_Bai12\bin\Debug\715105034_Nguyen_Quy_Dai_Bai12.exe
+E:\Code_C#\Bai_Ve_Nha\Tuan_2\715105034_Nguyen_Quy_Dai_Bai12\715105034_Nguyen_Quy_Dai_Bai12\bin\Debug\715105034_Nguyen_Quy_Dai_Bai12.pdb
+E:\Code_C#\Bai_Ve_Nha\Tuan_2\715105034_Nguyen_Quy_Dai_Bai12\715105034_Nguyen_Quy_Dai_Bai12\obj\Debug\715105034_Nguyen_Quy_Dai_Bai12.csproj.AssemblyReference.cache
+E:\Code_C#\Bai_Ve_Nha\Tuan_2\715105034_Nguyen_Quy_Dai_Bai12\715105034_Nguyen_Quy_Dai_Bai12\obj\Debug\715105034_Nguyen_Quy_Dai_Bai12.csproj.CoreCompileInputs.cache
+E:\Code_C#\Bai_Ve_Nha\Tuan_2\715105034_Nguyen_Quy_Dai_Bai12\715105034_Nguyen_Quy_Dai_Bai12\obj\Debug\715105034_Nguyen_Quy_Dai_Bai12.exe
+E:\Code_C#\Bai_Ve_Nha\Tuan_2\715105034_Nguyen_Quy_Dai_Bai12\715105034_Nguyen_Quy_Dai_Bai12\obj\Debug\715105034_Nguyen_Quy_Dai_Bai12.pdb

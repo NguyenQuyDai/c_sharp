@@ -1,0 +1,7 @@
+E:\Code_C#\Bai_Tren_Lop\Tuan_5\ThoiGian\ThoiGian\bin\Debug\ThoiGian.exe.config
+E:\Code_C#\Bai_Tren_Lop\Tuan_5\ThoiGian\ThoiGian\bin\Debug\ThoiGian.exe
+E:\Code_C#\Bai_Tren_Lop\Tuan_5\ThoiGian\ThoiGian\bin\Debug\ThoiGian.pdb
+E:\Code_C#\Bai_Tren_Lop\Tuan_5\ThoiGian\ThoiGian\obj\Debug\ThoiGian.csproj.AssemblyReference.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_5\ThoiGian\ThoiGian\obj\Debug\ThoiGian.csproj.CoreCompileInputs.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_5\ThoiGian\ThoiGian\obj\Debug\ThoiGian.exe
+E:\Code_C#\Bai_Tren_Lop\Tuan_5\ThoiGian\ThoiGian\obj\Debug\ThoiGian.pdb
