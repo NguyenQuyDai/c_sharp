@@ -1,0 +1,10 @@
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\715105034_Nguyen_Quy_Dai_Bai3.1\715105034_Nguyen_Quy_Dai_Bai3.1\bin\Debug\715105034_Nguyen_Quy_Dai_Bai3.1.exe.config
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\715105034_Nguyen_Quy_Dai_Bai3.1\715105034_Nguyen_Quy_Dai_Bai3.1\bin\Debug\715105034_Nguyen_Quy_Dai_Bai3.1.exe
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\715105034_Nguyen_Quy_Dai_Bai3.1\715105034_Nguyen_Quy_Dai_Bai3.1\bin\Debug\715105034_Nguyen_Quy_Dai_Bai3.1.pdb
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\715105034_Nguyen_Quy_Dai_Bai3.1\715105034_Nguyen_Quy_Dai_Bai3.1\obj\Debug\715105034_Nguyen_Quy_Dai_Bai3.1.csproj.AssemblyReference.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\715105034_Nguyen_Quy_Dai_Bai3.1\715105034_Nguyen_Quy_Dai_Bai3.1\obj\Debug\_715105034_Nguyen_Quy_Dai_Bai3._1.Form1.resources
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\715105034_Nguyen_Quy_Dai_Bai3.1\715105034_Nguyen_Quy_Dai_Bai3.1\obj\Debug\_715105034_Nguyen_Quy_Dai_Bai3._1.Properties.Resources.resources
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\715105034_Nguyen_Quy_Dai_Bai3.1\715105034_Nguyen_Quy_Dai_Bai3.1\obj\Debug\715105034_Nguyen_Quy_Dai_Bai3.1.csproj.GenerateResource.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\715105034_Nguyen_Quy_Dai_Bai3.1\715105034_Nguyen_Quy_Dai_Bai3.1\obj\Debug\715105034_Nguyen_Quy_Dai_Bai3.1.csproj.CoreCompileInputs.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\715105034_Nguyen_Quy_Dai_Bai3.1\715105034_Nguyen_Quy_Dai_Bai3.1\obj\Debug\715105034_Nguyen_Quy_Dai_Bai3.1.exe
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\715105034_Nguyen_Quy_Dai_Bai3.1\715105034_Nguyen_Quy_Dai_Bai3.1\obj\Debug\715105034_Nguyen_Quy_Dai_Bai3.1.pdb

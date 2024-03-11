@@ -1,0 +1,10 @@
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\Test7.1\Test7.1\bin\Debug\Test7.1.exe.config
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\Test7.1\Test7.1\bin\Debug\Test7.1.exe
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\Test7.1\Test7.1\bin\Debug\Test7.1.pdb
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\Test7.1\Test7.1\obj\Debug\Test7.1.csproj.AssemblyReference.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\Test7.1\Test7.1\obj\Debug\Test7._1.Properties.Resources.resources
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\Test7.1\Test7.1\obj\Debug\Test7.1.csproj.GenerateResource.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\Test7.1\Test7.1\obj\Debug\Test7.1.csproj.CoreCompileInputs.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\Test7.1\Test7.1\obj\Debug\Test7.1.exe
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\Test7.1\Test7.1\obj\Debug\Test7.1.pdb
+E:\Code_C#\Bai_Tren_Lop\Tuan_7\Test7.1\Test7.1\obj\Debug\Test7._1.Form1.resources

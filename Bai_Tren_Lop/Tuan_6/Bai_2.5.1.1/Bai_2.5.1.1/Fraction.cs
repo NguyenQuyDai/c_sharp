@@ -52,13 +52,23 @@ namespace Bai_2._5._1._1
             int mauSo = a.MauSo * b.MauSo;
             return new Fraction(tuSo, mauSo);
         }
-        public static bool operator ==(Fraction a , Fraction b)
+        public static Fraction operator-(Fraction a , Fraction b)
         {
-            return a.TuSo * b.MauSo == b.TuSo * a.MauSo;
+            int tuSo = a.TuSo * b.MauSo - b.TuSo * a.MauSo;
+            int mauSo = a.MauSo * b.MauSo;
+            return new Fraction(tuSo, mauSo);
         }
-        public static bool operator !=(Fraction a, Fraction b)
+        public static Fraction operator *(Fraction a, Fraction b)
         {
-            return a.TuSo * b.MauSo == b.TuSo * a.MauSo;
+            int tuSo = a.TuSo*b.TuSo;
+            int mauSo = a.MauSo*b.MauSo;
+            return new Fraction(tuSo, mauSo);
+        }
+        public static Fraction operator /(Fraction a, Fraction b)
+        {
+            int tuSo = a.TuSo * b.MauSo;
+            int mauSo = a.MauSo * b.TuSo;
+            return new Fraction(tuSo, mauSo);
         }
     }
 }
