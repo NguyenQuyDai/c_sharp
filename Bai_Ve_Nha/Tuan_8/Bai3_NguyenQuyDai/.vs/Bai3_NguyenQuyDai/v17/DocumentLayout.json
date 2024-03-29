@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code_C#\\Bai_Ve_Nha\\Tuan_8\\Bai3_NguyenQuyDai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25841479-36CB-449B-B09B-E6A2AC86666F}|Bai3_NguyenQuyDai\\Bai3_NguyenQuyDai.csproj|e:\\code_c#\\bai_ve_nha\\tuan_8\\bai3_nguyenquydai\\bai3_nguyenquydai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25841479-36CB-449B-B09B-E6A2AC86666F}|Bai3_NguyenQuyDai\\Bai3_NguyenQuyDai.csproj|solutionrelative:bai3_nguyenquydai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25841479-36CB-449B-B09B-E6A2AC86666F}|Bai3_NguyenQuyDai\\Bai3_NguyenQuyDai.csproj|E:\\Code_C#\\Bai_Ve_Nha\\Tuan_8\\Bai3_NguyenQuyDai\\bai3_nguyenquydai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25841479-36CB-449B-B09B-E6A2AC86666F}|Bai3_NguyenQuyDai\\Bai3_NguyenQuyDai.csproj|solutionrelative:bai3_nguyenquydai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25841479-36CB-449B-B09B-E6A2AC86666F}|Bai3_NguyenQuyDai\\Bai3_NguyenQuyDai.csproj|E:\\Code_C#\\Bai_Ve_Nha\\Tuan_8\\Bai3_NguyenQuyDai\\bai3_nguyenquydai\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25841479-36CB-449B-B09B-E6A2AC86666F}|Bai3_NguyenQuyDai\\Bai3_NguyenQuyDai.csproj|solutionrelative:bai3_nguyenquydai\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Code_C#\\Bai_Ve_Nha\\Tuan_8\\Bai3_NguyenQuyDai\\Bai3_NguyenQuyDai\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bai3_NguyenQuyDai\\Form1.Designer.cs",
+              "ToolTip": "E:\\Code_C#\\Bai_Ve_Nha\\Tuan_8\\Bai3_NguyenQuyDai\\Bai3_NguyenQuyDai\\Form1.Designer.cs",
+              "RelativeToolTip": "Bai3_NguyenQuyDai\\Form1.Designer.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAuwJEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:51:23.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Code_C#\\Bai_Ve_Nha\\Tuan_8\\Bai3_NguyenQuyDai\\Bai3_NguyenQuyDai\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai3_NguyenQuyDai\\Form1.cs",
+              "ToolTip": "E:\\Code_C#\\Bai_Ve_Nha\\Tuan_8\\Bai3_NguyenQuyDai\\Bai3_NguyenQuyDai\\Form1.cs",
+              "RelativeToolTip": "Bai3_NguyenQuyDai\\Form1.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:13:58.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Code_C#\\Bai_Ve_Nha\\Tuan_8\\Bai3_NguyenQuyDai\\Bai3_NguyenQuyDai\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai3_NguyenQuyDai\\Form1.cs",
+              "ToolTip": "E:\\Code_C#\\Bai_Ve_Nha\\Tuan_8\\Bai3_NguyenQuyDai\\Bai3_NguyenQuyDai\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai3_NguyenQuyDai\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:13:36.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

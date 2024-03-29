@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code_C#\\Bai_Tren_Lop\\Tuan_8\\BMI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3DD041-3A7C-49FF-B3F9-54F82BA3A1A4}|BMI\\BMI.csproj|e:\\code_c#\\bai_tren_lop\\tuan_8\\bmi\\bmi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3DD041-3A7C-49FF-B3F9-54F82BA3A1A4}|BMI\\BMI.csproj|solutionrelative:bmi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3DD041-3A7C-49FF-B3F9-54F82BA3A1A4}|BMI\\BMI.csproj|E:\\Code_C#\\Bai_Tren_Lop\\Tuan_8\\BMI\\bmi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D3DD041-3A7C-49FF-B3F9-54F82BA3A1A4}|BMI\\BMI.csproj|solutionrelative:bmi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Code_C#\\Bai_Tren_Lop\\Tuan_8\\BMI\\BMI\\Form1.cs",
+              "RelativeDocumentMoniker": "BMI\\Form1.cs",
+              "ToolTip": "E:\\Code_C#\\Bai_Tren_Lop\\Tuan_8\\BMI\\BMI\\Form1.cs",
+              "RelativeToolTip": "BMI\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:12:53.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Code_C#\\Bai_Tren_Lop\\Tuan_8\\BMI\\BMI\\Form1.cs",
+              "RelativeDocumentMoniker": "BMI\\Form1.cs",
+              "ToolTip": "E:\\Code_C#\\Bai_Tren_Lop\\Tuan_8\\BMI\\BMI\\Form1.cs [Design]",
+              "RelativeToolTip": "BMI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-12T01:12:09.761Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

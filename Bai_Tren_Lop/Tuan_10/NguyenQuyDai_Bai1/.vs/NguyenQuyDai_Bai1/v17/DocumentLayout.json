@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code_C#\\Bai_Tren_Lop\\Tuan_10\\NguyenQuyDai_Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8130A492-FBD0-48B9-BFCB-1858C2084850}|NguyenQuyDai_Bai1\\NguyenQuyDai_Bai1.csproj|e:\\code_c#\\bai_tren_lop\\tuan_10\\nguyenquydai_bai1\\nguyenquydai_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8130A492-FBD0-48B9-BFCB-1858C2084850}|NguyenQuyDai_Bai1\\NguyenQuyDai_Bai1.csproj|solutionrelative:nguyenquydai_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8130A492-FBD0-48B9-BFCB-1858C2084850}|NguyenQuyDai_Bai1\\NguyenQuyDai_Bai1.csproj|e:\\code_c#\\bai_tren_lop\\tuan_10\\nguyenquydai_bai1\\nguyenquydai_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8130A492-FBD0-48B9-BFCB-1858C2084850}|NguyenQuyDai_Bai1\\NguyenQuyDai_Bai1.csproj|solutionrelative:nguyenquydai_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8130A492-FBD0-48B9-BFCB-1858C2084850}|NguyenQuyDai_Bai1\\NguyenQuyDai_Bai1.csproj|e:\\code_c#\\bai_tren_lop\\tuan_10\\nguyenquydai_bai1\\nguyenquydai_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8130A492-FBD0-48B9-BFCB-1858C2084850}|NguyenQuyDai_Bai1\\NguyenQuyDai_Bai1.csproj|solutionrelative:nguyenquydai_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Code_C#\\Bai_Tren_Lop\\Tuan_10\\NguyenQuyDai_Bai1\\NguyenQuyDai_Bai1\\Form1.cs",
+              "RelativeDocumentMoniker": "NguyenQuyDai_Bai1\\Form1.cs",
+              "ToolTip": "E:\\Code_C#\\Bai_Tren_Lop\\Tuan_10\\NguyenQuyDai_Bai1\\NguyenQuyDai_Bai1\\Form1.cs*",
+              "RelativeToolTip": "NguyenQuyDai_Bai1\\Form1.cs*",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwDoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:12:53.075Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code_C#\\Bai_Tren_Lop\\Tuan_10\\NguyenQuyDai_Bai1\\NguyenQuyDai_Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenQuyDai_Bai1\\Program.cs",
+              "ToolTip": "E:\\Code_C#\\Bai_Tren_Lop\\Tuan_10\\NguyenQuyDai_Bai1\\NguyenQuyDai_Bai1\\Program.cs",
+              "RelativeToolTip": "NguyenQuyDai_Bai1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:12:30.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Code_C#\\Bai_Tren_Lop\\Tuan_10\\NguyenQuyDai_Bai1\\NguyenQuyDai_Bai1\\Form1.cs",
+              "RelativeDocumentMoniker": "NguyenQuyDai_Bai1\\Form1.cs",
+              "ToolTip": "E:\\Code_C#\\Bai_Tren_Lop\\Tuan_10\\NguyenQuyDai_Bai1\\NguyenQuyDai_Bai1\\Form1.cs [Design]*",
+              "RelativeToolTip": "NguyenQuyDai_Bai1\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:07:25.318Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

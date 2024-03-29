@@ -1,0 +1,10 @@
+E:\Code_C#\Bai_Ve_Nha\Tuan_8\NguyenQuyDai_Bai1\NguyenQuyDai_Bai1\bin\Debug\NguyenQuyDai_Bai1.exe.config
+E:\Code_C#\Bai_Ve_Nha\Tuan_8\NguyenQuyDai_Bai1\NguyenQuyDai_Bai1\bin\Debug\NguyenQuyDai_Bai1.exe
+E:\Code_C#\Bai_Ve_Nha\Tuan_8\NguyenQuyDai_Bai1\NguyenQuyDai_Bai1\bin\Debug\NguyenQuyDai_Bai1.pdb
+E:\Code_C#\Bai_Ve_Nha\Tuan_8\NguyenQuyDai_Bai1\NguyenQuyDai_Bai1\obj\Debug\NguyenQuyDai_Bai1.csproj.AssemblyReference.cache
+E:\Code_C#\Bai_Ve_Nha\Tuan_8\NguyenQuyDai_Bai1\NguyenQuyDai_Bai1\obj\Debug\NguyenQuyDai_Bai1.Form1.resources
+E:\Code_C#\Bai_Ve_Nha\Tuan_8\NguyenQuyDai_Bai1\NguyenQuyDai_Bai1\obj\Debug\NguyenQuyDai_Bai1.Properties.Resources.resources
+E:\Code_C#\Bai_Ve_Nha\Tuan_8\NguyenQuyDai_Bai1\NguyenQuyDai_Bai1\obj\Debug\NguyenQuyDai_Bai1.csproj.GenerateResource.cache
+E:\Code_C#\Bai_Ve_Nha\Tuan_8\NguyenQuyDai_Bai1\NguyenQuyDai_Bai1\obj\Debug\NguyenQuyDai_Bai1.csproj.CoreCompileInputs.cache
+E:\Code_C#\Bai_Ve_Nha\Tuan_8\NguyenQuyDai_Bai1\NguyenQuyDai_Bai1\obj\Debug\NguyenQuyDai_Bai1.exe
+E:\Code_C#\Bai_Ve_Nha\Tuan_8\NguyenQuyDai_Bai1\NguyenQuyDai_Bai1\obj\Debug\NguyenQuyDai_Bai1.pdb

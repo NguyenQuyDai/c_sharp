@@ -1,0 +1,10 @@
+E:\Code_C#\Bai_Tren_Lop\Tuan_8\BMI\BMI\bin\Debug\BMI.exe.config
+E:\Code_C#\Bai_Tren_Lop\Tuan_8\BMI\BMI\bin\Debug\BMI.exe
+E:\Code_C#\Bai_Tren_Lop\Tuan_8\BMI\BMI\bin\Debug\BMI.pdb
+E:\Code_C#\Bai_Tren_Lop\Tuan_8\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_8\BMI\BMI\obj\Debug\BMI.Form1.resources
+E:\Code_C#\Bai_Tren_Lop\Tuan_8\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+E:\Code_C#\Bai_Tren_Lop\Tuan_8\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_8\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+E:\Code_C#\Bai_Tren_Lop\Tuan_8\BMI\BMI\obj\Debug\BMI.exe
+E:\Code_C#\Bai_Tren_Lop\Tuan_8\BMI\BMI\obj\Debug\BMI.pdb
